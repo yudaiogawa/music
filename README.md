@@ -1,5 +1,7 @@
 # Music
 
+A repository of music theory & chord progressions & Beats & Tracks.
+
 ## Circle of fifths
 
 <img src='pics/circle_of_fifths.png' width='64%' />
@@ -33,3 +35,16 @@
   - chill
   - melodic
 - 歌謡
+
+## Tool
+
+- Studio One
+- MASCHINE
+- MASCHINE STUDIO
+- MASCHINE MICRO
+- iMASCHINE
+- iMPC
+- TRAKTOR KONTROL S4
+- KOMPLETE KONTROL S49
+- KOMPLETE
+- Chordbot
