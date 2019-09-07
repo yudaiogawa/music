@@ -1,10 +1,10 @@
 # Music
 
-A repository of music theory & chord progressions & Beats & Tracks.
+A repository of Music theory & Chord progressions & Beats & Tracks.
 
 ## Circle of fifths
 
-<img src='pics/circle_of_fifths.png' width='64%' />
+<img src='img/circle_of_fifths.png' width='64%' />
 
 ## Map
 
@@ -17,11 +17,11 @@ A repository of music theory & chord progressions & Beats & Tracks.
 - Electro
 - Fank
 - Future bass
-  - Kawaii future bass
+  - Kawaii Future Bass
 - Hiphop
-  - chill
-  - lo-fi
-  - melodic
+  - Chill
+  - Lo-fi
+  - Melodic
 - Instrumental
 - Jazz
 - Pop
@@ -29,11 +29,11 @@ A repository of music theory & chord progressions & Beats & Tracks.
 - Rock
   - Mixture
   - Visual
-  - post
+  - Post
 - R&B
 - Trap
-  - chill
-  - melodic
+  - Chill
+  - Melodic
 - 歌謡
 
 ## Tool
