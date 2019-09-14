@@ -48,3 +48,19 @@ A repository of Music theory & Chord progressions & Beats & Tracks.
 - KOMPLETE KONTROL S49
 - KOMPLETE
 - Chordbot
+
+## Useful Websites
+
+- [Computer Music Japan](https://computermusic.jp/)
+- [NATIVE INSTRUMENTS](https://www.native-instruments.com/jp/)
+- [PreSonus](https://www.presonus.com/)
+- [Sound Cloud](https://soundcloud.com/discover)
+
+Sound Banks
+
+- [Cymatics](https://cymatics.fm/)
+- [Function Loops](https://www.functionloops.com/)
+- [99Sounds](http://99sounds.org/)
+- [Music Radar](https://www.musicradar.com/)
+- [The Drum Broker](https://hiphopdrumsamples.com/)
+- [PLUGIN BOUTIQUE](https://www.pluginboutique.com/)
