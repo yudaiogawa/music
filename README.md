@@ -2,6 +2,7 @@
 <p align="center">A repository of Music theory & Chord progressions & Beats & Tracks.</p>
 
 <br>
+<br>
 
 <div align="center">
   <img src="img/circle_of_fifths.png" width="64%" />
@@ -9,14 +10,14 @@
 
 <br>
 
-#### Map
+### Map
 
 - [www.musicmap.info](https://www.musicmap.info/)
 - [everynoise.com](http://everynoise.com/)
 
 <br>
 
-#### Genres
+### Genres
 
 - Breakbeats
 - Electro
@@ -43,7 +44,7 @@
 
 <br>
 
-#### Tool
+### Tools
 
 - Studio One
 - MASCHINE
@@ -58,7 +59,7 @@
 
 <br>
 
-#### Useful Websites
+### Useful Websites
 
 - [Computer Music Japan](https://computermusic.jp/)
 - [NATIVE INSTRUMENTS](https://www.native-instruments.com/jp/)
