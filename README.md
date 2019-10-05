@@ -1,17 +1,22 @@
-# Music
+<h1 align="center">Music</h1>
+<p align="center">A repository of Music theory & Chord progressions & Beats & Tracks.</p>
 
-A repository of Music theory & Chord progressions & Beats & Tracks.
+<br>
 
-## Circle of fifths
+<div align="center">
+  <img src="img/circle_of_fifths.png" width="64%" />
+</div>
 
-<img src='img/circle_of_fifths.png' width='64%' />
+<br>
 
-## Map
+#### Map
 
 - [www.musicmap.info](https://www.musicmap.info/)
 - [everynoise.com](http://everynoise.com/)
 
-## Genres
+<br>
+
+#### Genres
 
 - Breakbeats
 - Electro
@@ -36,7 +41,9 @@ A repository of Music theory & Chord progressions & Beats & Tracks.
   - Melodic
 - 歌謡
 
-## Tool
+<br>
+
+#### Tool
 
 - Studio One
 - MASCHINE
@@ -49,7 +56,9 @@ A repository of Music theory & Chord progressions & Beats & Tracks.
 - KOMPLETE
 - Chordbot
 
-## Useful Websites
+<br>
+
+#### Useful Websites
 
 - [Computer Music Japan](https://computermusic.jp/)
 - [NATIVE INSTRUMENTS](https://www.native-instruments.com/jp/)
